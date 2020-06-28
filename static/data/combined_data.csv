@@ -1,0 +1,177 @@
+,Country,Region,Population,Area (sq. mi.),GDP ($ per capita),ImageURL
+0,Afghanistan,Asia,31056997,647500,700,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg
+1,Albania,Europe,3581655,28748,4500,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg
+2,Algeria,Africa,32930091,2381740,6000,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg
+3,Andorra,Europe,71201,468,19000,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg
+4,Angola,Africa,12127071,1246700,1900,https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg
+5,Argentina,North America,39921833,2766890,11200,https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg
+6,Armenia,Asia,2976372,29800,3500,https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg
+7,Australia,Oceania,20264082,7686850,29000,https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg
+8,Austria,Europe,8192880,83870,30000,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg
+9,Azerbaijan,Asia,7961619,86600,3400,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg
+10,Bahrain,Asia,698585,665,16900,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg
+11,Bangladesh,Asia,147365352,144000,1900,https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg
+12,Barbados,North America,279912,431,15700,https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg
+13,Belarus,Europe,10293011,207600,6100,https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg
+14,Belgium,Europe,10379067,30528,29100,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg
+15,Belize,North America,287730,22966,4900,https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg
+16,Benin,Africa,7862944,112620,1100,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg
+17,Bhutan,Asia,2279723,47000,1300,https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg
+18,Bolivia,North America,8989046,1098580,2400,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg
+19,Botswana,Africa,1639833,600370,9000,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg
+20,Brazil,North America,188078227,8511965,7600,https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg
+21,Brunei,Asia,379444,5770,18600,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg
+22,Bulgaria,Europe,7385367,110910,7600,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg
+23,Burkina Faso,Africa,13902972,274200,1100,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg
+24,Burundi,Africa,8090068,27830,600,https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg
+25,Cambodia,Asia,13881427,181040,1900,https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg
+26,Cameroon,Africa,17340702,475440,1800,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg
+27,Canada,North America,33098932,9984670,29800,https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg
+28,Cape Verde,Africa,420979,4033,1400,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg
+29,Chad,Africa,9944201,1284000,1200,https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg
+30,Chile,North America,16134219,756950,9900,https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg
+31,China,Asia,1313973713,9596960,5000,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg
+32,Colombia,North America,43593035,1138910,6300,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg
+33,Comoros,Africa,690948,2170,700,https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg
+34,Cook Islands,Oceania,21388,240,5000,https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg
+35,Costa Rica,North America,4075261,51100,9100,https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg
+36,Croatia,Europe,4494749,56542,10600,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg
+37,Cuba,North America,11382820,110860,2900,https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg
+38,Cyprus,Asia,784301,9250,19200,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg
+39,Czech Republic,Europe,10235455,78866,15700,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg
+40,Denmark,Europe,5450661,43094,31100,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg
+41,Djibouti,Africa,486530,23000,1300,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg
+42,Dominica,North America,68910,754,5400,https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg
+43,Dominican Republic,North America,9183984,48730,6000,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg
+44,East Timor,Asia,1062777,15007,500,https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg
+45,Ecuador,North America,13547510,283560,3300,https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg
+46,Egypt,Africa,78887007,1001450,4000,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg
+47,El Salvador,North America,6822378,21040,4800,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg
+48,Equatorial Guinea,Africa,540109,28051,2700,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg
+49,Eritrea,Africa,4786994,121320,700,https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg
+50,Estonia,Europe,1324333,45226,12300,https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg
+51,Ethiopia,Africa,74777981,1127127,700,https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg
+52,Fiji,Oceania,905949,18270,5800,https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg
+53,Finland,Europe,5231372,338145,27400,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg
+54,France,Europe,60876136,547030,27600,https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg
+55,Gabon,Africa,1424906,267667,5500,https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg
+56,Georgia,Asia,4661473,69700,2500,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg
+57,Germany,Europe,82422299,357021,27600,https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg
+58,Ghana,Africa,22409572,239460,2200,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg
+59,Greece,Europe,10688058,131940,20000,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg
+60,Grenada,North America,89703,344,5000,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg
+61,Guatemala,North America,12293545,108890,4100,https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg
+62,Guinea,Africa,9690222,245857,2100,https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg
+63,Guinea-Bissau,Africa,1442029,36120,800,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg
+64,Guyana,North America,767245,214970,4000,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg
+65,Haiti,North America,8308504,27750,1600,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg
+66,Honduras,North America,7326496,112090,2600,https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg
+67,Hungary,Europe,9981334,93030,13900,https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg
+68,Iceland,Europe,299388,103000,30900,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg
+69,India,Asia,1095351995,3287590,2900,https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg
+70,Indonesia,Asia,245452739,1919440,3200,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg
+71,Iran,Asia,68688433,1648000,7000,https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg
+72,Iraq,Asia,26783383,437072,1500,https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg
+73,Ireland,Europe,4062235,70280,29600,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg
+74,Israel,Asia,6352117,20770,19800,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg
+75,Italy,Europe,58133509,301230,26700,https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg
+76,Jamaica,North America,2758124,10991,3900,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg
+77,Japan,Asia,127463611,377835,28200,https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg
+78,Jordan,Asia,5906760,92300,4300,https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg
+79,Kazakhstan,Asia,15233244,2717300,6300,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg
+80,Kenya,Africa,34707817,582650,1000,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg
+81,Kiribati,Oceania,105432,811,800,https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg
+82,Kuwait,Asia,2418393,17820,19000,https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg
+83,Kyrgyzstan,Asia,5213898,198500,1600,https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg
+84,Laos,Asia,6368481,236800,1700,https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg
+85,Latvia,Europe,2274735,64589,10200,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg
+86,Lebanon,Asia,3874050,10400,4800,https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg
+87,Lesotho,Africa,2022331,30355,3000,https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg
+88,Liberia,Africa,3042004,111370,1000,https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg
+89,Libya,Africa,5900754,1759540,6400,https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg
+90,Liechtenstein,Europe,33987,160,25000,https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg
+91,Lithuania,Europe,3585906,65200,11400,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg
+92,Luxembourg,Europe,474413,2586,55100,https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg
+93,Macedonia,Europe,2050554,25333,6700,https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Macedonia.svg
+94,Madagascar,Africa,18595469,587040,800,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg
+95,Malawi,Africa,13013926,118480,600,https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg
+96,Malaysia,Asia,24385858,329750,9000,https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg
+97,Maldives,Asia,359008,300,3900,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg
+98,Mali,Africa,11716829,1240000,900,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg
+99,Malta,Europe,400214,316,17700,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg
+100,Marshall Islands,Oceania,60422,11854,1600,https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg
+101,Mauritania,Africa,3177388,1030700,1800,https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg
+102,Mauritius,Africa,1240827,2040,11400,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg
+103,Mexico,North America,107449525,1972550,9000,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg
+104,Moldova,Europe,4466706,33843,1800,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg
+105,Monaco,Europe,32543,2,27000,https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg
+106,Mongolia,Asia,2832224,1564116,1800,https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg
+107,Morocco,Africa,33241259,446550,4000,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg
+108,Mozambique,Africa,19686505,801590,1200,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg
+109,Namibia,Africa,2044147,825418,7200,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg
+110,Nauru,Oceania,13287,21,5000,https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg
+111,Nepal,Asia,28287147,147181,1400,https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg
+112,Netherlands,Europe,16491461,41526,28600,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg
+113,New Zealand,Oceania,4076140,268680,21600,https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg
+114,Nicaragua,North America,5570129,129494,2300,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg
+115,Niger,Africa,12525094,1267000,800,https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg
+116,Nigeria,Africa,131859731,923768,900,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg
+117,Norway,Europe,4610820,323802,37800,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg
+118,Oman,Asia,3102229,212460,13100,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg
+119,Pakistan,Asia,165803560,803940,2100,https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg
+120,Palau,Oceania,20579,458,9000,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg
+121,Panama,North America,3191319,78200,6300,https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg
+122,Papua New Guinea,Oceania,5670544,462840,2200,https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg
+123,Paraguay,North America,6506464,406750,4700,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg
+124,Peru,North America,28302603,1285220,5100,https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg
+125,Philippines,Asia,89468677,300000,4600,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg
+126,Poland,Europe,38536869,312685,11100,https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg
+127,Portugal,Europe,10605870,92391,18000,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg
+128,Qatar,Asia,885359,11437,21500,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg
+129,Romania,Europe,22303552,237500,7000,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg
+130,Russia,Europe,142893540,17075200,8900,https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg
+131,Rwanda,Africa,8648248,26338,1300,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg
+132,Saint Lucia,North America,168458,616,5400,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg
+133,Samoa,Oceania,176908,2944,5600,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg
+134,San Marino,Europe,29251,61,34600,https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg
+135,Saudi Arabia,Asia,27019731,1960582,11800,https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg
+136,Senegal,Africa,11987121,196190,1600,https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg
+137,Serbia,Europe,9396411,88361,2200,https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg
+138,Seychelles,Africa,81541,455,7800,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg
+139,Sierra Leone,Africa,6005250,71740,500,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg
+140,Singapore,Asia,4492150,693,23700,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg
+141,Slovakia,Europe,5439448,48845,13300,https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg
+142,Slovenia,Europe,2010347,20273,19000,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg
+143,Solomon Islands,Oceania,552438,28450,1700,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg
+144,Somalia,Africa,8863338,637657,500,https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg
+145,South Africa,Africa,44187637,1219912,10700,https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg
+146,Spain,Europe,40397842,504782,22000,https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg
+147,Sri Lanka,Asia,20222240,65610,3700,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg
+148,Sudan,Africa,41236378,2505810,1900,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg
+149,Suriname,North America,439117,163270,4000,https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg
+150,Swaziland,Africa,1136334,17363,4900,https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Swaziland.svg
+151,Sweden,Europe,9016596,449964,26800,https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg
+152,Switzerland,Europe,7523934,41290,32700,https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg
+153,Syria,Asia,18881361,185180,3300,https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg
+154,Tajikistan,Asia,7320815,143100,1000,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg
+155,Tanzania,Africa,37445392,945087,600,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg
+156,Thailand,Asia,64631595,514000,7400,https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg
+157,Togo,Africa,5548702,56785,1500,https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg
+158,Tonga,Oceania,114689,748,2200,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg
+159,Tunisia,Africa,10175014,163610,6900,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg
+160,Turkey,Asia,70413958,780580,6700,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg
+161,Turkmenistan,Asia,5042920,488100,5800,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg
+162,Tuvalu,Oceania,11810,26,1100,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg
+163,Uganda,Africa,28195754,236040,1400,https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg
+164,Ukraine,Europe,46710816,603700,5400,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg
+165,United Arab Emirates,Asia,2602713,82880,23200,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg
+166,United Kingdom,Europe,60609153,244820,27700,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg
+167,United States,North America,298444215,9631420,37800,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg
+168,Uruguay,North America,3431932,176220,12800,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg
+169,Uzbekistan,Asia,27307134,447400,1700,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg
+170,Vanuatu,Oceania,208869,12200,2900,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg
+171,Venezuela,North America,25730435,912050,4800,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg
+172,Vietnam,Asia,84402966,329560,2500,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg
+173,Yemen,Asia,21456188,527970,800,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg
+174,Zambia,Africa,11502010,752614,800,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg
+175,Zimbabwe,Africa,12236805,390580,1900,https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg
