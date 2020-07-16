@@ -1,0 +1,170 @@
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>Countries by Flag Color</title>
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
+  <script src="http://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+  <script src="static/js/plot_1.js"></script>
+
+  <style>
+
+    #btn-brown {
+        background-color: #6e4b2e;
+        border-color: #6e4b2e} 
+    #btn-brown:hover {
+        background-color: #5a3e27;
+        border-color: #5a3e27}
+    #btn-brown:focus {
+        box-shadow: 0px 0px 0px 3px #6e4b2e90;}
+
+    #btn-maroon {
+        background-color: #740c0c;
+        border-color: #740c0c}
+    #btn-maroon:hover {
+        background-color: #630b0b;
+        border-color: #630b0b}
+    #btn-maroon:focus {
+        box-shadow: 0px 0px 0px 3px #740c0c90;}
+
+    #btn-orange {
+        background-color: #ff7b2e;
+        border-color: #ff7b2e} 
+    #btn-orange:hover {
+        background-color: #e46d28;
+        border-color: #e46d28}
+    #btn-orange:focus {
+        box-shadow: 0px 0px 0px 3px #ff7b2e90;}
+
+    #btn-pink {
+        background-color: #ff65ff;
+        border-color: #ff65ff} 
+    #btn-pink:hover {
+        background-color: #dd58dd;
+        border-color: #dd58dd}
+    #btn-pink:focus {
+        box-shadow: 0px 0px 0px 3px #ff65ff90;}
+
+    #btn-purple {
+        background-color: #53028a;
+        border-color: #53028a}
+    #btn-purple:hover {
+        background-color: #42026d;
+        border-color: #42026d}
+    #btn-purple:focus {
+        box-shadow: 0px 0px 0px 3px #53028a90;}
+
+
+  </style>
+
+</head>
+
+<body>
+
+    <div class = 'navbar navbar-expand fixed-top bg-light nav-pills'>
+    <ul class="nav" >
+        <li class="nav-item">
+            <a class="nav-link" 
+            href="#">
+            Project</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" 
+            href="#">
+            Overview</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" 
+            href="#data">
+            Data</a>
+        </li>
+    </ul>
+    </div>
+    <br><br>
+    <div class = 'container'><br><br>
+        <div class = 'row' id = "data">
+            <p>                
+                <button class="btn btn-dark" id = "btn-black" type="button">
+                    Black
+                </button>
+                <button class="btn btn-primary" id = "btn-brown" type="button">
+                    Brown
+                </button>
+                <button class="btn btn-primary" id = "btn-blue" type="button">
+                    Blue
+                </button>
+                <button class="btn btn-success" id = "btn-green" type="button">
+                    Green
+                </button>
+                <button class="btn btn-primary" id = "btn-maroon" type="button">
+                    Maroon
+                </button>
+                <button class="btn btn-primary" id = "btn-orange" type="button">
+                    Orange
+                </button>
+                <button class="btn btn-primary" id = "btn-pink" type="button">
+                    Pink
+                </button>
+                <button class="btn btn-primary" id = "btn-purple" type="button">
+                    Purple
+                </button>
+                <button class="btn btn-danger" id = "btn-red" type="button">
+                    Red
+                </button>
+                <button class="btn btn-light" id = "btn-white" type="button">
+                    White
+                </button>
+                <button class="btn btn-warning" id = "btn-yellow" type="button">
+                    Yellow
+                </button> 
+                <button class="btn btn-dark" id = "btn-all" type="button">
+                    All
+                </button> 
+            </p>
+        </div>
+        <div class = 'row'>
+            <table id="data-table" class="table table-striped table-sm table-responsive">
+                <thead class = "thead-dark">
+                  <tr>
+
+                    <th class="table-head">Country</th>
+                    <th class="table-head">Region</th>
+                    <th class="table-head">Population</th>
+                    <th class="table-head">Area</th>
+                    <th class="table-head">GDP</th>
+                    <th class="table-head">Black</th>
+                    <th class="table-head">Brown</th>
+                    <th class="table-head">Blue</th>
+                    <th class="table-head">Green</th>
+                    <th class="table-head">Maroon</th>
+                    <th class="table-head">Orange</th>
+                    <th class="table-head">Pink</th>
+                    <th class="table-head">Purple</th>
+                    <th class="table-head">Red</th>
+                    <th class="table-head">White</th>
+                    <th class="table-head">Yellow</th>
+
+                  </tr>
+                </thead>
+                <tbody id="data-tbody">
+                </tbody>
+              </table>
+        </div>
+        <div class = 'row'>
+            <div class = 'col-12 text-right'>
+                <p class= "text-muted"><small>Emily Goldner 2020</small></p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
