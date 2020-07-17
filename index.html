@@ -74,12 +74,12 @@
     <ul class="nav" >
         <li class="nav-item">
             <a class="nav-link" 
-            href="#">
+            href="#project">
             Project</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" 
-            href="#">
+            href="#overview">
             Overview</a>
         </li>
         <li class="nav-item">
@@ -87,11 +87,61 @@
             href="#data">
             Data</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" 
+            href="#resources">
+            Resources</a>
+        </li>
     </ul>
     </div>
     <br><br>
-    <div class = 'container'><br><br>
-        <div class = 'row' id = "data">
+    <div class = 'container'>
+        <br id = "project">
+        <br>
+        <br>
+        <div class = 'row'>
+
+        </div>
+        <hr>
+        <br id = "overview">
+        <div class = 'row'>
+            <p>
+                <h4>Project Overview:</h4>
+                <br>
+                STILL IN PROGRESS!
+                <br>
+                <br>
+                This full-stack project is just for fun - I'm brushing up on these languages and tools.
+                When finished, this landing page will be an interactive dashboard created using JavaScript. 
+                Planned vizualizations include:
+                <ul>
+                    <li>
+                        A flag color selector that will bring up images of flags based on the color selected
+                    </li>
+                    <li>
+                        A bar chart - showing number of flags of each color - that can be filtered by world region
+                    </li>
+                    <li>
+                        Infographics and trivia about color meanings and flag symbology
+                    </li>
+                </ul>
+                The goal (still to be realized) is a smooth, animated, interactive website.
+            </p>
+        </div>
+        <hr>
+        <br id = "data">
+        <br>
+        <br>
+        <div class = 'row'>
+            <p>
+                This table contains the data that is used in the above visualizations.
+                <br><br>
+                Filter the data by clicking on the color buttons.  Selecting "Pink", for example, will display a list of countries
+                which have pink in their national flag.
+                <br><br>
+                Area is listed in square miles; GDP is listed in USD per capita.
+                <br>
+            </p>
             <p>                
                 <button class="btn btn-dark" id = "btn-black" type="button">
                     Black
@@ -158,6 +208,21 @@
                 <tbody id="data-tbody">
                 </tbody>
               </table>
+        </div>
+        <hr>
+        <br id = "resources">
+        <div class = 'row'>                
+            <h4>Resources:</h4>
+            <p>
+                <br>
+                <i>Data used in this project was downloaded or scraped from:</i>
+                <br>
+                <a href = "https://www.kaggle.com/fernandol/countries-of-the-world">Kaggle - Countries of the World</a>
+                <br>                      
+                <a href = "https://flagpedia.net/">Flagpedia.net</a> 
+                <br>
+                <a href = "https://en.wikipedia.org/wiki/List_of_flags_by_color">Wikipedia - List of Flags by Color</a>    
+            </p>          
         </div>
         <div class = 'row'>
             <div class = 'col-12 text-right'>
