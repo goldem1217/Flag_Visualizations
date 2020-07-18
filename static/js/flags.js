@@ -1,26 +1,8 @@
 
 var flagData = "https://raw.githubusercontent.com/goldem1217/Flag_Visualizations/master/static/data/combined_data.csv"
 
-// Function to make table for data display
-
-function makeTable(tableData){
-    const tbody = d3.select("#data-tbody");
-    
-    tableData.forEach(function(country) {
-        const row = tbody.append("tr");
-
-        Object.entries(country).forEach(function([key, value]) {
-            const cell = row.append("td");
-            cell.text(value);
-        
-        });
-                    
-    });
-
-};
 
 // Read in CSV 
-// Put data in HTML table
 // Create button functions to filter data in HTML table
 
 d3.csv(flagData, function(d) {
