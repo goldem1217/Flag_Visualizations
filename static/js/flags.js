@@ -8,11 +8,12 @@ function showFlags(tableData){
     const display = d3.select("#flag-area");
 
     tableData.forEach(function(country){
-        console.log(country.Picture);
         display.append("img")
             .attr("src", country.Picture)
-            .attr("width", "30")
-            .attr("height", "20");
+            .attr("alt", country.Country)
+            .attr("width", "40")
+            .attr("height", "25")
+            .attr("class", "flag");
     });
     
     };
@@ -66,172 +67,108 @@ d3.csv(flagData, function(d) {
 
         blackButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Black === inputValue);
+            let filteredData = data.filter(row => row.Black === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
             showFlags(filteredData);
 
         });
         brownButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Brown === inputValue);
+            let filteredData = data.filter(row => row.Brown === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         blueButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Blue === inputValue);
+            let filteredData = data.filter(row => row.Blue === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         greenButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Green === inputValue);
+            let filteredData = data.filter(row => row.Green === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         maroonButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Maroon === inputValue);
+            let filteredData = data.filter(row => row.Maroon === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         orangeButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Orange === inputValue);
+            let filteredData = data.filter(row => row.Orange === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         pinkButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Pink === inputValue);
+            let filteredData = data.filter(row => row.Pink === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         purpleButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Purple === inputValue);
+            let filteredData = data.filter(row => row.Purple === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         redButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Red === inputValue);
+            let filteredData = data.filter(row => row.Red === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         whiteButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.White === inputValue);
+            let filteredData = data.filter(row => row.White === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         yellowButton.on("click", function() {
 
-            let inputValue = 1;
-
-            console.log(inputValue);
-
-            let filteredData = data.filter(row => row.Yellow === inputValue);
+            let filteredData = data.filter(row => row.Yellow === 1);
             
-            console.log(filteredData);
+            d3.selectAll("img").classed('flag', true).remove()
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         allButton.on("click", function() {
             
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(data);
+            d3.selectAll("img").classed('flag', true).remove()
+            
+            showFlags(data);
 
         });
 
