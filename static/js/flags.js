@@ -1,17 +1,30 @@
 
 var flagData = "https://raw.githubusercontent.com/goldem1217/Flag_Visualizations/master/static/data/combined_data.csv"
 
+// Create function to display flags and country names on button click
+
+function showFlags(tableData){
+
+    const display = d3.select("#flag-area");
+
+    tableData.forEach(function(country){
+        console.log(country.Picture);
+        display.append("img")
+            .attr("src", country.Picture)
+            .attr("width", "30")
+            .attr("height", "20");
+    });
+    
+    };
+
+
+
 
 // Read in CSV 
-// Create button functions to filter data in HTML table
-
 d3.csv(flagData, function(d) {
     return {
         Country : d["Country"],
-        Region : d["Region"],
-        Population : +d["Population"],
-        Area : +d["Area (sq. mi.)"],
-        GDP : +d["GDP ($ per capita)"],
+        Picture : d["URL"],
         Black : +d["Black"],
         Brown : +d["Brown"],
         Blue : +d["Blue"],
@@ -30,7 +43,8 @@ d3.csv(flagData, function(d) {
 
         console.log(data[0]);
 
-        makeTable(data)
+        showFlags(data);
+
         // buttons for color filter
         // use .filter() to filter through the data and pull the rows where the color value = 1
         // reset the table
@@ -60,9 +74,7 @@ d3.csv(flagData, function(d) {
             
             console.log(filteredData);
 
-            d3.selectAll("tr").selectAll("td").remove()
-
-            makeTable(filteredData);
+            showFlags(filteredData);
 
         });
         brownButton.on("click", function() {
