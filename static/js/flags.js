@@ -1,25 +1,31 @@
 
 var flagData = "https://raw.githubusercontent.com/goldem1217/Flag_Visualizations/master/static/data/combined_data.csv"
 
-// Create function to display flags and country names on button click
+// Function to display flags on button click
 
 function showFlags(tableData){
 
     const display = d3.select("#flag-area");
 
-    tableData.forEach(function(country){
-        display.append("img")
-            .attr("src", country.Picture)
-            .attr("alt", country.Country)
+    tableData.forEach(function(d){
+        
+       
+        display.append("a")
+            .attr("href", "https://en.wikipedia.org/wiki/"+d.Country)
+            .attr("target", "_blank")
+            .append("img")
+            .attr("src", d.Picture)
+            .attr("alt", d.Country)
+            .attr("title", d.Country)
+            .attr("class", "flag")
             .attr("width", "40")
             .attr("height", "25")
-            .attr("class", "flag");
-    });
+
+        });
+    
     
     };
-
-
-
+    
 
 // Read in CSV 
 d3.csv(flagData, function(d) {
